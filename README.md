@@ -1,4 +1,4 @@
-# OldCars Prediction
+# Old Cars Prediction
 
 1. The project helps to predict the prices of old cars  with the help of data analysis.
 
